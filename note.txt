@@ -23,5 +23,11 @@ git push
 
 
 file màu xanhl:       file mới tạo
+xanh dương: file có thay đổi
 
 U: untracked : chưa được theo dõi trên github
+A: 
+M: 
+D: delete
+R: rename
+C: conflix 
