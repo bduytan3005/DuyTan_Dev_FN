@@ -30,4 +30,4 @@ A:
 M: 
 D: delete
 R: rename
-C: conflix 
+C: conflict 
