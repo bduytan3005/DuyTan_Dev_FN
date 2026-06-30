@@ -1,0 +1,27 @@
+git config --global user.name  
+git config --global user.email
+git init : thông báo sẽ git cho cái folder này, chỉ làm 1 lần cho mỗi dự án
+
+git remote add origin duong_dan_den_repo_git : kết nối folder hiện tại tới repo trên git
+VD: git remote add origin https://github.com/bduytan3005/DuyTan_Dev_FN.git
+
+git remote -v: kiểm tra lại thông tin 
+
+
+-- đẩy code lên github:
+
+git add .
+
+git commit -m "noidung conmit"
+
+git push
+    ở lần đầu push
+    git push -u origin main/master (tùy máy)
+
+    lần bình thường (not first)
+    git push
+
+
+file màu xanhl:       file mới tạo
+
+U: untracked : chưa được theo dõi trên github
