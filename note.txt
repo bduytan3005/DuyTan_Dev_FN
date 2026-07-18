@@ -37,3 +37,4 @@ git checkout: đi đến lần commit nào đó , đi đến main/master để t
 branch: nhánh
 
 helloo
+Dòng chỉnh sửa trực tiếp trên git 
