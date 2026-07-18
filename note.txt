@@ -46,3 +46,9 @@ lệnh nhánh :
     VD: đang ở master muốn về DevA -> git checkout DevA
 - git merge tên nhánh 
 VD: git merge DevA -> để lấy code từ nhánh khác về
+
+
+ví dụ 1 dev mới vào dự án đang làm dỡ - tạo 1 file mới 
+- git init 
+- git clone ... -> trang code trên web 
+=> lấy hết dự án đang dỡ trên git vào VSC
