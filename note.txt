@@ -35,3 +35,5 @@ C: conflict
 
 git checkout: đi đến lần commit nào đó , đi đến main/master để trở về
 branch: nhánh
+
+Dòng chỉnh sửa trực tiếp trên git 
