@@ -52,3 +52,5 @@ ví dụ 1 dev mới vào dự án đang làm dỡ - tạo 1 file mới
  không cần git init
 - git clone ... -> trang code trên web 
 => lấy hết dự án đang dỡ trên git vào VSC
+
+khi tạo file mới -> git commit để có thể dính vào nhánh mình cần
