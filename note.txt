@@ -38,3 +38,11 @@ branch: nhánh
 
 helloo
 Dòng chỉnh sửa trực tiếp trên git 
+
+lệnh nhánh : 
+- git checkout -b devA -> tạo nhánh mới
+- git branch -> coi là mình đang ở nhánh nào
+- git checkout tên nhánh -> trở về nhánh mình muốn
+    VD: đang ở master muốn về DevA -> git checkout DevA
+- git merge tên nhánh 
+VD: git merge DevA -> để lấy code từ nhánh khác về
