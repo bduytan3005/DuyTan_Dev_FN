@@ -31,3 +31,7 @@ M:
 D: delete
 R: rename
 C: conflict 
+
+
+git checkout: đi đến lần commit nào đó , đi đến main/master để trở về
+branch: nhánh
